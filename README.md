@@ -1,6 +1,6 @@
 Hi there 👋  
 
-👨‍💻 Senior Software Development Engineer | ML Enthusiast  
+👨‍💻 I'm a Senior Software Development Engineer | ML Enthusiast  
 🔹 4+ years of experience building scalable products across B2C, B2B, and B2B2C models  
 🔹 Domain exposure: Healthcare, Logistics, Transportation  
 🔹 Passionate about clean code, elegant systems, and machine learning / AI that actually delivers value  
